@@ -10,4 +10,4 @@ Separated Tic Tacs: All programs work for separated tic tacs.
                     
 Touching Tic Tacs: The watershed file detects touching tic tacs about 40% of the time.
 
-Note: The camera can support 10809 at 30fs and 2592x1944p still images. Some of the programs reduce that resolution, as it causes the output image re-sizing to not work. The output images are always re-sized because my screen is only 7".
+Note for context: The camera can support 10809 at 30fs and 2592x1944p still images. Some of the programs reduce that resolution, as it causes the output image re-sizing to not work. The output images are always re-sized because my screen is only 7".
